@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+  <name>Asteroids</name>
+  <comment/>
+  <projects/>
+  <buildSpec>
+    <buildCommand>
+      <name>com.adobe.flexbuilder.flashbridge.flashprobuilder</name>
+      <arguments/>
+    </buildCommand>
+    <buildCommand>
+      <name>com.powerflasher.fdt.core.FlashBuilder</name>
+      <arguments/>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>com.adobe.flexbuilder.flashbridge.flashpronature</nature>
+    <nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+    <nature>com.powerflasher.fdt.core.FlashNature</nature>
+  </natures>
+  <linkedResources/>
+</projectDescription>
